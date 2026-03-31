@@ -39,27 +39,27 @@ To understand why orders are delayed and identify patterns across cities, produc
 
 ## 📷 Visual Insights
 ### 1. Total Delay Impact by Category
-![Delay] (total_delay_impact_by_category.png)
+![Delay](total_delay_impact_by_category.png)
 
-*Insight:* Automotive category contributes the highest total delay,indicating potential inefficiencies in this segment.
+**Insight:** Automotive category contributes the highest total delay,indicating potential inefficiencies in this segment.
 
 ---
 
 ### 2. Seller Processing Time vs Delay
-![Processing] (seller_processing_time_vs_delay.png)
+![Processing](seller_processing_time_vs_delay.png)
 
-*Insight:* Orders with longer seller processing times are more likely to be delayed,highlighting seller-side inefficiencies.
+**Insight:** Orders with longer seller processing times are more likely to be delayed,highlighting seller-side inefficiencies.
 
 ---
 
 ### 3. Top Sellers Causing Delay
-![Top Sellers] (top_sellers_causing_maximum_delay_impact.png)
+![Top Sellers](top_sellers_causing_maximum_delay_impact.png)
 
-*Insight:* A small group of sellers contributes disproportionately to delays,suggesting targeted monitoring can reduce overall delays.
+**Insight:** A small group of sellers contributes disproportionately to delays,suggesting targeted monitoring can reduce overall delays.
 
 ---
 
 ### 4. Delay Severity vs Volume
-![Severity] (delay_severity_vs_volume.png)
+![Severity](delay_severity_vs_volume.png)
 
-*Insight:* High-volume regions with frequent delays should be prioritized for logistics optimization.
+**Insight:** High-volume regions with frequent delays should be prioritized for logistics optimization.
