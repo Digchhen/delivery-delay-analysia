@@ -13,7 +13,7 @@ To understand why orders are delayed and identify patterns across cities, produc
 ## 🛠️ Tools & Technologies
 - Python
 - Pandas (Data Manupulation)
-- Matplotlib & seaborn (Data Visualization)
+- Matplotlib & Seaborn (Data Visualization)
 - Jupyter Notebook
 
 ---
